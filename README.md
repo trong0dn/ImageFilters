@@ -29,6 +29,8 @@ that filter has been applied to the current photo.
 	T10_image_filters.py 		(main script for filters)
 	T10_test_image_filters.py 	(script for testing fitlers)
 
+![filtered](https://user-images.githubusercontent.com/55768917/121969773-fb256680-cd42-11eb-87a1-be67d6938f23.jpg)
+
 -----------------------------------------------------------------------------
 INSTALLATION
 ____________
