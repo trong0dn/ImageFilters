@@ -1,21 +1,15 @@
 # ImageFilters
-[Version 1.0] 
+[Version 1.0] <br>
 07/04/2020
-Pricing: $35.00 CAD
 
 -----------------------------------------------------------------------------
-CONTACT INFORMATION
-___________________
+## CONTACT INFORMATION
 
-Contact Name:		Trong Nguyen
-Voice:			613 520 2600
-Email:			trongdnguyen@cmail.carleton.ca
-Website:		https://www.carleton.ca/sce/
-Affiliation: 		Carleton University - Systems and Computer Engineering
+Contact Name:		Trong Nguyen <br>
+Affiliation: 		Carleton University - Systems and Computer Engineering <br>
 
 -----------------------------------------------------------------------------
-DESCRIPTION
-___________
+## DESCRIPTION
 
 - ImageFilters is a Python application for RGB image manipulation using 
 filters. The user will be able to load an image and then perform a sequence of
@@ -32,8 +26,7 @@ that filter has been applied to the current photo.
 ![filtered](https://user-images.githubusercontent.com/55768917/121969773-fb256680-cd42-11eb-87a1-be67d6938f23.jpg)
 
 -----------------------------------------------------------------------------
-INSTALLATION
-____________
+## INSTALLATION
 
 This program has only been tested for Windows 10 and macOS.
 
@@ -46,9 +39,7 @@ toolset with the version with which the application was tested upon:
 	* Pillow 2.2.1
 	* Cimpl 1.04
 
-Supplementary libraries and testing file with modular dependencies can be
-found and downloaded on CUlearn:
-https://culearn.carleton.ca/moodle/course/view.php?id=144561
+Supplementary libraries and testing file with modular dependencies.
 
 	Cimpl.py 		(Carleton Image Manipulation Python Library)
 	unit_testing.py		(required in T10_test_image_filters.py)
@@ -126,8 +117,7 @@ that is created on TextEdit (macOS’ equivalent of Notepad) is formatted to
 plain text.
 
 -----------------------------------------------------------------------------
-USAGE
-_____
+## USAGE
 
 ------------------------- Interactive User-Interface -------------------------
 
@@ -223,8 +213,7 @@ detect_edges_better have also been hard-coded with the threshold value of 10
 for simplicity and ease-of-use.
 
 -----------------------------------------------------------------------------
-CREDITS
-_______
+## CREDITS
 
 Thanks to the support of TAs and Instructors during the development of this
 application.
@@ -273,8 +262,7 @@ Hussein Rashid
 	test_detect_edges_better		
 
 -----------------------------------------------------------------------------
-LICENSE
-_______
+## LICENSE
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
